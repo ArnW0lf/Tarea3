@@ -1,39 +1,54 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace Tarea3Grafica
 {
     public class Objeto
     {
-        private Dictionary<int, Parte> partes = new Dictionary<int, Parte>();
+        private List<Parte> partes = new List<Parte>();
+        private List<int> ids = new List<int>();
 
         public void Add(int id, Parte parte)
         {
-            partes[id] = parte;
+            int index = ids.IndexOf(id);
+            if (index >= 0)
+            {
+                partes[index] = parte;
+            }
+            else
+            {
+                ids.Add(id);
+                partes.Add(parte);
+            }
         }
 
         public Parte Get(int id)
         {
-            return partes.ContainsKey(id) ? partes[id] : null;
+            int index = ids.IndexOf(id);
+            if (index >= 0)
+            {
+                return partes[index];
+            }
+            return null;
         }
 
         public void Delete(int id)
         {
-            partes.Remove(id);
+            int index = ids.IndexOf(id);
+            if (index >= 0)
+            {
+                ids.RemoveAt(index);
+                partes.RemoveAt(index);
+            }
         }
 
         public void Draw()
         {
-            foreach (var parte in partes.Values)
+            foreach (var parte in partes)
             {
                 parte.Draw();
             }
         }
-
-     
     }
-    
-
 }
 

@@ -42,3 +42,14 @@ C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\
 C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
 C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Grafica.exe
 C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.pdb

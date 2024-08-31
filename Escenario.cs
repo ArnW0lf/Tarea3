@@ -1,38 +1,53 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-
-
 
 namespace Tarea3Grafica
 {
-     public class Escenario
-     {
-         private Dictionary<int, Objeto> objetos = new Dictionary<int, Objeto>();
+    public class Escenario
+    {
+        private List<Objeto> objetos = new List<Objeto>();
+        private List<int> ids = new List<int>();
 
-         public void Add(int id, Objeto objeto)
-         {
-             objetos[id] = objeto;
-         }
+        public void Add(int id, Objeto objeto)
+        {
+            int index = ids.IndexOf(id);
+            if (index >= 0)
+            {
+                objetos[index] = objeto;
+            }
+            else
+            {
+                ids.Add(id);
+                objetos.Add(objeto);
+            }
+        }
 
-         public Objeto Get(int id)
-         {
-             return objetos.ContainsKey(id) ? objetos[id] : null;
-         }
+        public Objeto Get(int id)
+        {
+            int index = ids.IndexOf(id);
+            if (index >= 0)
+            {
+                return objetos[index];
+            }
+            return null;
+        }
 
-         public void Delete(int id)
-         {
-             objetos.Remove(id);
-         }
+        public void Delete(int id)
+        {
+            int index = ids.IndexOf(id);
+            if (index >= 0)
+            {
+                ids.RemoveAt(index);
+                objetos.RemoveAt(index);
+            }
+        }
 
-         public void Draw()
-         {
-             foreach (var objeto in objetos.Values)
-             {
-                 objeto.Draw();
-             }
-         }
-
+        public void Draw()
+        {
+            foreach (var objeto in objetos)
+            {
+                objeto.Draw();
+            }
+        }
     }
-   
 }

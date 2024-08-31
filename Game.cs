@@ -94,11 +94,9 @@ namespace Tarea3Grafica
         {
             base.OnUpdateFrame(e);
 
-            float rotationSpeed = 10.0f; // Factor de velocidad de rotación
-
-            // Incrementa los ángulos para una rotación automática más rápida
-            angleX += rotationSpeed * (float)e.Time; // Rotación en el eje X
-            angleY += rotationSpeed * (float)e.Time; // Rotación en el eje Y
+            float rotationSpeed = 10.0f;
+            angleX += rotationSpeed * (float)e.Time;
+            angleY += rotationSpeed * (float)e.Time; 
         }
 
     }

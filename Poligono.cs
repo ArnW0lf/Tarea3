@@ -28,7 +28,7 @@ namespace Tarea3Grafica
 
         public void Draw()
         {
-            GL.Begin(PrimitiveType.Quads);
+            GL.Begin(PrimitiveType.Polygon);
             GL.Color4(Color);
             foreach (var vertice in vertices.Values)
             {
