@@ -1,0 +1,33 @@
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\Tarea3Grafica.exe
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\Tarea3Grafica.pdb
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\OpenTK.dll
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\OpenTK.pdb
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\OpenTK.xml
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.csproj.CopyComplete
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.exe
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.pdb
