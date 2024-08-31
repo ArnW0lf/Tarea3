@@ -93,24 +93,13 @@ namespace Tarea3Grafica
         protected override void OnUpdateFrame(FrameEventArgs e)
         {
             base.OnUpdateFrame(e);
-            var keyboard = Keyboard.GetState();
 
-            if (keyboard.IsKeyDown(Key.Left))
-            {
-                angleY -= 1.0f;
-            }
-            if (keyboard.IsKeyDown(Key.Right))
-            {
-                angleY += 1.0f;
-            }
-            if (keyboard.IsKeyDown(Key.Up))
-            {
-                angleX -= 1.0f;
-            }
-            if (keyboard.IsKeyDown(Key.Down))
-            {
-                angleX += 1.0f;
-            }
+            float rotationSpeed = 10.0f; // Factor de velocidad de rotación
+
+            // Incrementa los ángulos para una rotación automática más rápida
+            angleX += rotationSpeed * (float)e.Time; // Rotación en el eje X
+            angleY += rotationSpeed * (float)e.Time; // Rotación en el eje Y
         }
+
     }
 }
